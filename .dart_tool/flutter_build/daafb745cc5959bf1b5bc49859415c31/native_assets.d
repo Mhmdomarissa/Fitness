@@ -1,0 +1,1 @@
+ /Users/macbook/Desktop/Fitness/.dart_tool/flutter_build/daafb745cc5959bf1b5bc49859415c31/native_assets.yaml: 
